@@ -1,6 +1,8 @@
 # OP1Kenobi
 A full featured Companion for the Teenage Engineering OP1 Keyboard written in Python 2.7
 
+![Front View](Image1.jpg)
+
 While I adore my OP1, there are some things I would love to augment a bit to improve the workflow, plus more features = more better. 
 
 ## Video walkthrough of the hardware build
@@ -30,7 +32,11 @@ The hardware consists of:
 7. LIPO BATTERY 5v Boost Convertor [TBD]
 8. Teenage Engineering OP1 [Amazon Link](https://www.amazon.com/Teenage-Engineering-002-AS-001-OP-1-Synthesizer/dp/B00CXSJUZS/ref=sr_1_3?crid=3OIM089NM8X5A&keywords=teenage+engineering+op-1&qid=1561654121&s=gateway&sprefix=teenage+engi%2Caps%2C172&sr=8-3)
 
-The actual application code is all written in Python 2.x using Pygame as the core.
+![Front View](Image2.jpg)
+
+![Front View](Image3.jpg)
+
+The actual application code is all written in Python 3.x using Pygame as the core.
 
 ## Current Features
 4 buttons + d pad controls
